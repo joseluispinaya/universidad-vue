@@ -1,0 +1,10 @@
+Practica2 vue3
+
+Nombre integrante:
+- Jose Luis Pinaya Balderrama
+
+Pasos para iniciar el proyecto
+
+1 npm install
+2 npm start para el servidor
+3 npm run serve para el cliente
